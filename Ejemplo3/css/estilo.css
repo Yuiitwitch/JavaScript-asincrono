@@ -1,0 +1,19 @@
+body{
+    margin: 0 0 0 0;
+}
+.diapositiva1{
+    background-color: blue;
+    height: 100vh;
+}
+.diapositiva2{
+    background-color: orange;
+    height: 100vh;
+}
+.diapositiva3{
+    background-color: red;
+    height: 100vh;
+}
+.diapositiva4{
+    background-color: aquamarine;
+    height: 100vh;
+}
