@@ -8,11 +8,11 @@
 
 // characters();
 
-const axios = require ('axios')
+const axios = require ('axios');
 
 let pokemons = async () => {
 
-    let resultados = await axios.get('https://pokeapi.co/api/v2/evolution-trigger')
+    let resultados = await axios.get('https://pokeapi.co/api/v2/pokemon/pikachu');
     console.log(resultados.data);
 }
 
